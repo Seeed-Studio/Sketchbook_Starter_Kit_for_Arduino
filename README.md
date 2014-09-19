@@ -1,2 +1,2 @@
-Sketchbook_Starter_Kit_V3.0
+Sketchbook Starter Kit for Arduino
 ===========================
