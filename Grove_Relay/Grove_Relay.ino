@@ -2,7 +2,7 @@
 // when a button press, relay will on
 
 const int buttonPin = 3;     // the button is attached to digital pin 3
-const int relayPin =  9;     // the relay is attached to digital pin 9
+const int relayPin =  7;     // the relay is attached to digital pin 7
 int buttonState = 0;
 
 void setup()
