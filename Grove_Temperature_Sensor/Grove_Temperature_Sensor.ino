@@ -9,7 +9,9 @@ float resistance;
 
 void setup()
 {
-    Serial.begin(9600);
+    Serial.begin(9600);     //Baud rate for the serial communication of Arduino
+    pinMode(A0,INPUT);      //Setting the A0 pin as input pin to take data from the temperature sensor 
+    
 }
 
 void loop()
